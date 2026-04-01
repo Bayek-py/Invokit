@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     "ABN verification",
   ],
   alternates: {
-    canonical: "https://invokit.com/tools/abn-lookup",
+    canonical: "https://invokit.net/tools/abn-lookup",
   },
   openGraph: {
     title: "Free ABN Lookup — Validate Australian Business Numbers | InvoKit",
     description: "Instantly validate any ABN. Check registration status, GST registration, business name, and entity type from the ABR registry.",
-    url: "https://invokit.com/tools/abn-lookup",
+    url: "https://invokit.net/tools/abn-lookup",
   },
 };
 

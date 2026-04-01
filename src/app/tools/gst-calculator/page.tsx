@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     "calculate GST",
   ],
   alternates: {
-    canonical: "https://invokit.com/tools/gst-calculator",
+    canonical: "https://invokit.net/tools/gst-calculator",
   },
   openGraph: {
     title: "Free GST Calculator — Add or Remove GST Instantly | InvoKit",
     description: "Add or remove GST from any amount. Supports AU (10%), NZ (15%), Singapore (9%), and Indian GST rates. Free, instant, no signup.",
-    url: "https://invokit.com/tools/gst-calculator",
+    url: "https://invokit.net/tools/gst-calculator",
   },
 };
 

@@ -18,12 +18,12 @@ export const metadata: Metadata = {
     "business quote template",
   ],
   alternates: {
-    canonical: "https://invokit.com/estimate-generator",
+    canonical: "https://invokit.net/estimate-generator",
   },
   openGraph: {
     title: "Free Estimate Generator — Create Professional Quotes | InvoKit",
     description: "Create professional estimates and quotes in seconds. Free PDF export, no signup required.",
-    url: "https://invokit.com/estimate-generator",
+    url: "https://invokit.net/estimate-generator",
   },
 };
 

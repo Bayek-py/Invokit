@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 // UPDATE this to your real domain before launch
-const SITE_URL = "https://invokit.com";
+const SITE_URL = "https://invokit.net";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

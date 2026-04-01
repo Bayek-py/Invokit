@@ -18,12 +18,12 @@ export const metadata: Metadata = {
     "business receipt",
   ],
   alternates: {
-    canonical: "https://invokit.com/receipt-generator",
+    canonical: "https://invokit.net/receipt-generator",
   },
   openGraph: {
     title: "Free Receipt Generator — Create Payment Receipts Online | InvoKit",
     description: "Create professional payment receipts in seconds. Free PDF download, no signup required.",
-    url: "https://invokit.com/receipt-generator",
+    url: "https://invokit.net/receipt-generator",
   },
 };
 

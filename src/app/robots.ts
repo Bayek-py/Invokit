@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "https://invokit.com/sitemap.xml",
-    host: "https://invokit.com",
+    sitemap: "https://invokit.net/sitemap.xml",
+    host: "https://invokit.net",
   };
 }

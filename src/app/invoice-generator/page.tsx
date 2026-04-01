@@ -14,12 +14,12 @@ export const metadata: Metadata = {
     "invoice creator",
   ],
   alternates: {
-    canonical: "https://invokit.com/invoice-generator",
+    canonical: "https://invokit.net/invoice-generator",
   },
   openGraph: {
     title: "Free Invoice Generator — Create PDF Invoices Online | InvoKit",
     description: "Create professional invoices in seconds. Free PDF export, automatic tax calculation. No signup required.",
-    url: "https://invokit.com/invoice-generator",
+    url: "https://invokit.net/invoice-generator",
   },
 };
 

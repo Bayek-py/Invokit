@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     "reverse VAT calculator",
   ],
   alternates: {
-    canonical: "https://invokit.com/tools/vat-calculator",
+    canonical: "https://invokit.net/tools/vat-calculator",
   },
   openGraph: {
     title: "Free VAT & Sales Tax Calculator — Add or Remove Tax | InvoKit",
     description: "Add or remove VAT for UK, EU countries, or US state sales tax. Free, instant calculations with country presets.",
-    url: "https://invokit.com/tools/vat-calculator",
+    url: "https://invokit.net/tools/vat-calculator",
   },
 };
 
